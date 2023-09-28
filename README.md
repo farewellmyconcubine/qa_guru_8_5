@@ -1,1 +1,1 @@
-# qa_guru_8_5
+Тест формы регистрации: demoqa.com/automation-practice-form
