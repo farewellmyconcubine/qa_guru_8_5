@@ -1,1 +1,1 @@
-Тест формы регистрации: demoqa.com/automation-practice-form
+Тест формы регистрации: https://demoqa.com/automation-practice-form
